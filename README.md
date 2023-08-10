@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoojinnnee&theme=nord&hide_border=true&count_private=true)](https://github.com/yoojinnnee/github-readme-stats)
 
-<br>
+<br><br>
 
 ### 💡 My tech stack 💡
 <div style="display:flex; flex-direction:row;">
@@ -43,14 +43,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-  <br>
+  <br><br>
 
   ### 💡 Tools 💡
   <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white "/>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-  <br>
+  <br><br>
   
   ### 💡 About Me 💡
   <a href="https://www.instagram.com/_ryuzn">
