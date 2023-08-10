@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🌱 My tech stack 🌱
+### 🌿 My tech stack 🌿
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
@@ -44,15 +44,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
   <br>
+  <br>
 
-  ### 💡 Tools 💡
+  ### 🌿 Tools 🌿
   <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white "/>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
   <br>
-
-  ### 📢 About Me 📢
+  <br>
+  ### 🌿 About Me 🌿
   <a href="https://www.instagram.com/_ryuzn">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
