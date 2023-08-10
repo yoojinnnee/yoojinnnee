@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## My tech stack 
+## 🌱 My tech stack 🌱 
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
