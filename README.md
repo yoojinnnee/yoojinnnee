@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
 
 ### Hello👋, my name is Yoojin
 #### I wanna be a developer
