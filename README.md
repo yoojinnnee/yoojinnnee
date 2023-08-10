@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### Hello👋, my name is Yoojin
-I wanna be a developer
+#### I wanna be a developer
 
 <br>
 
-- 🌱 I'm currently learning web development.
-- 📫 How to reach me : <a href="https://www.instagram.com/ryuzn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-    <a href="mailto:lcxyurzn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+#### - 🌱 I'm currently learning web development.
+#### - 📫 How to reach me : <a href="https://www.instagram.com/ryuzn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="25"></a> <a href="mailto:lcxyurzn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="25"></a>
  ---
 
  [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoojinnnee&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/yoojinnnee)
@@ -31,7 +30,7 @@ I wanna be a developer
 
 <br>
 
-## 🌱 My tech stack 🌱
+### 🌱 My tech stack 🌱
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
@@ -47,7 +46,7 @@ I wanna be a developer
 
   <br>
 
-  ## 💡 tools 💡
+  ### 💡 tools 💡
   <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white "/>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
