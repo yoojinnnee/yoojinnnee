@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 
   ### 📢 About Me 📢
   <a href="https://www.instagram.com/_ryuzn">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="25">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
   <a href="mailto:lcxyurzn@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" height="25">
+   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
