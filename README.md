@@ -43,18 +43,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-
   <br>
-
 
   ### 💡 Tools 💡
   <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white "/>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-
   <br>
-
 
   ### 📢 About Me 📢
   <a href="https://www.instagram.com/_ryuzn">
@@ -63,3 +59,4 @@ Here are some ideas to get you started:
   <a href="mailto:lcxyurzn@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
+  </div>
