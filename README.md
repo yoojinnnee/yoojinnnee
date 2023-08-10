@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello👋, my name is Yoojin
+### Hello👋, my name is Yoojin
 I wanna be a developer
 
+- ✏️ I’m currently learning Machine Learning, AI, Computer Vision. 
+- 📫 How to reach me : lcxyurzn@naver.com 
  ---
 
  [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoojinnnee&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/yoojinnnee)
