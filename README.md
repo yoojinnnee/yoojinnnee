@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <br>
 
   ### 📢 About Me 📢
-  <a href="https://www.instagram.com/ryuzn">
+  <a href="https://www.instagram.com/ryuzn__">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="25">
   </a>
   <a href="mailto:lcxyurzn@gmail.com">
