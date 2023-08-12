@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### Hello👋, my name is Yoojin
-#### I wanna be a developer
 
 <br>
 
-🌱 I'm currently learning web development.
+🌱 I'm currently learning web development and DBA
  ---
 
  [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoojinnnee&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/yoojinnnee)
