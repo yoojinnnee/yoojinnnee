@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🌱 I'm currently learning web development and DBA
+### 🌱 I'm currently learning web development
 
 <br>
 
